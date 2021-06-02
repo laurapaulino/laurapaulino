@@ -4,7 +4,7 @@
 ### Aprendendo: Python <img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" alt="python" width="40" height="40" style="max-width:100%;"></img>
 
  ##
-![Snake animation](https://github.com/laurapaulino)
+![Snake animation](https://raw.githubusercontent.com/rafaballerini/rafaballerini/output/github-contribution-grid-snake.svg)
  ##
  
 ### Me encontre:
