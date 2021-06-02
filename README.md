@@ -8,9 +8,7 @@
 <a href="https://www.instagram.com/laurapaulino.s/" target="_blank">
 <img align="center" alt="laura-instagram" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" style="max-width:100%;>
 </a>
-<a href="https://www.facebook.com/laurapaulinosouza/" target="_blank">
-<img align="center" alt="laura-instagram" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" style="max-width:100%;">
-</a>                                                                                                                                                 
+                                                                                                                                               
 <a href="https://www.linkedin.com/in/laurapaulinodesouza/" target="_blank">
 <img align="center" alt="laura-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="max-width:100%;">
 </a>
