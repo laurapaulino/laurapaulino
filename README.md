@@ -3,7 +3,10 @@
 ### Futura engenheira de controle e automação 🦾
 ### Aprendendo: Python <img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" alt="python" width="40" height="40" style="max-width:100%;"></img>
 
-
+ ##
+![Snake animation](https://github.com/laurapaulino)
+ ##
+ 
 ### Me encontre:
 <a href="https://www.linkedin.com/in/laurapaulinodesouza/" target="_blank">
 <img align="center" alt="laura-linkedin" height="40" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="max-width:100%;">
@@ -15,7 +18,7 @@
 <img align="center" alt="laura-instagram" height="40" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" style="max-width:100%;">
 </a>
 
+ ##
 
-![Snake animation](https://github.com/laurapaulino)
 
                                                                                                                                                 
