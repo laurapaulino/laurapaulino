@@ -15,6 +15,8 @@
 <img align="center" alt="laura-instagram" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" style="max-width:100%;">
 </a>
 
-![Snake animation](https://github.com/laurapaulino/laurapaulino/blob/main/.github/workflows/main.yml)
+<div>
+![Snake animation](https://github.com/laurapaulino/laurapaulino/blob/output/github-contribution-grid-snake.svg)
 
+ </div>
                                                                                                                                                 
